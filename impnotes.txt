@@ -1,0 +1,8 @@
+Web Servers: 4 Production, 6 Dev and QA. 1 CPU, 6 Core, 2.6 Ghz, 4 GB RAM, 400 GB HD, Linux Ubuntu, 10% maintenance, 11% discount
+Database Servers: 2 Production, 2 Dev and QA. 2 CPU, 4 Core, 1.6 Ghz, 16 GB RAM, 1.0 TB database, MySQL on Linux, 10% maintenance, 11% Discount
+Storage: 4 TB SAN, no NAS, long term storage, or archive, 10% Maintenance Costs, 10% Discount
+Network: Fully redundant firewalls, switches and load balancers, 50 Mbps Internet with 2 telecommunications providers – secondary independent 5MB backup provider
+Environment: Cage (shared with other company equipment) Tier 1 Co-lo Facility, Dual Utility Providers, 1.5 Racks, 10% hardware/software maintenance, 3 year amortization
+Administrative Overhead: 15% Administrative Overhead
+Growth Rate: 30% annually
+Usage Pattern: Spiky Predictable. Like most web apps, a predictable and cyclical usage pattern.
